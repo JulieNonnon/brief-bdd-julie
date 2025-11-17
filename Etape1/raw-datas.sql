@@ -1,7 +1,7 @@
 -- Import du fichier .csv dans PostgreSQL dans une table brute :
 
 -- creation de la table (format des données en TEXT pour éviter tout conflit):
-create table brutdata (
+create table rawdata (
     id TEXT,
     id_fantoir TEXT,
     numero TEXT,
