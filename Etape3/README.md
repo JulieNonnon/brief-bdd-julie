@@ -13,6 +13,7 @@ L’objectif est de fournir un environnement contrôlé permettant :
 
 ## 📂 Arborescence du dossier
 
+```
 Etape3/
 │
 ├── Creation-db/
@@ -30,6 +31,7 @@ Etape3/
 ├── staging-parcel-datas.sql
 ├── staging-street-datas.sql
 └── staging-town-data.sql
+```
 
 # 1️⃣ Création de la base de données
 
